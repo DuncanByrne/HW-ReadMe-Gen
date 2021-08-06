@@ -2,6 +2,7 @@
 ![](https://img.shields.io/badge/license-MIT%20License-blue?style=flat-square)
 ## Description
 In this homework we used Node.js, git, fs and ES6 functions to create a project that generates a README file when completed. 
+We were able to complete this by using these techniques to create a list and give the user, a good structure to make a solid README file.
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
